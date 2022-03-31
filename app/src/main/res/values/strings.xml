@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Myactivity</string>
+
+    <string-array name="Cites">
+
+        <item>Egypt</item>
+        <item>Dubai</item>
+        <item>Saudi Arabia</item>
+        <item>America</item>
+    </string-array>
+
+    <string-array name="back">
+
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>India</item>
+        <item>China</item>
+
+
+    </string-array>
+
+    <string-array name="Levels">
+
+        <item>First Class</item>
+        <item>Economy Class</item>
+        <item>Business Class</item>
+    </string-array>
+
+
+</resources>
